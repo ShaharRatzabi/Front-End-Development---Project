@@ -1,0 +1,56 @@
+/* 
+Shahar Ratzabi 318802725 
+Arad David 318621224 
+*/
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #282c34;
+}
+
+body {
+  background-color: #282c34;
+  color: white;
+  margin-bottom: 100px;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 100px;
+}
+h2 {
+  font-size: 50px;
+}
+.glob-container {
+  text-align: center;
+  margin-top: 200px;
+  padding-left: 250px;
+}
+.line-spereator {
+  border: 2px solid;
+  width: 500px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 200px;
+  margin-bottom: 150px;
+}
+
+.subCont {
+  text-align: center;
+  align-items: center;
+  margin-top: 150px;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.marginLeft {
+  margin-left: 100px;
+}
