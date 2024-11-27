@@ -71,7 +71,7 @@ idb.addCalories = async (ItemObject) => {
       calories: ItemObject.calories,
       category: ItemObject.category,
       description: ItemObject.description,
-      month: today.getMonth(), // Store the current month
+      month: today.getMonth() + 1, // Store the current month
       year: today.getFullYear(), // Store the current year
     };
 
